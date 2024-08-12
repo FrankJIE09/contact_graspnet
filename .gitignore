@@ -1,6 +1,6 @@
-results
-checkpoints/*
-*.npz
+
+.idea/
+
 **/*.pyc
 **/__pycache__
 .vscode
