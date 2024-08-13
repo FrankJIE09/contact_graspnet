@@ -3,6 +3,7 @@
   <source src="6D_grasp.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 # Contact-GraspNet  
 
 ### Contact-GraspNet: Efficient 6-DoF Grasp Generation in Cluttered Scenes   
